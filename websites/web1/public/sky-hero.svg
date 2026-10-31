@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1413 1000" width="1413" height="1000"
+     preserveAspectRatio="xMidYMid slice" role="presentation">
+  <title>Blue sky above a bank of cumulus clouds</title>
+  <defs>
+    <!-- two cumulus silhouettes, reused at many scales -->
+    <symbol id="cu" viewBox="0 0 200 100" overflow="visible">
+      <path d="M2 100c0-16 8-26 20-28 2-20 22-34 42-26 8-22 42-30 58-8 20-10 44 4 46 24 16 2 30 16 30 38Z"
+            fill="#fff"/>
+    </symbol>
+    <symbol id="cu2" viewBox="0 0 200 100" overflow="visible">
+      <path d="M0 100c2-14 14-22 24-22 0-24 26-40 48-30 10-18 38-24 52-4 18-6 38 8 38 26 14 4 26 14 26 30Z"
+            fill="#fff"/>
+    </symbol>
+
+    <linearGradient id="sky" x1="0.05" y1="0" x2="0.5" y2="1">
+      <stop offset="0" stop-color="#2b7dbb"/>
+      <stop offset="0.42" stop-color="#5ca6d8"/>
+      <stop offset="0.76" stop-color="#93cbeb"/>
+      <stop offset="1" stop-color="#cbe7f8"/>
+    </linearGradient>
+    <radialGradient id="lift" cx="0.5" cy="0.97" r="0.62">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="f-far" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur stdDeviation="13"/></filter>
+    <filter id="f-mid" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="6"/></filter>
+    <filter id="f-near" x="-15%" y="-15%" width="130%" height="130%"><feGaussianBlur stdDeviation="2.4"/></filter>
+    <filter id="f-wisp" x="-40%" y="-90%" width="180%" height="280%"><feGaussianBlur stdDeviation="17"/></filter>
+    <filter id="f-puff" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="24"/></filter>
+  </defs>
+
+  <rect width="1413" height="1000" fill="url(#sky)"/>
+
+  <!-- high wisps, upper right -->
+  <g opacity="0.2" filter="url(#f-wisp)" fill="#fff">
+    <ellipse cx="1140" cy="150" rx="260" ry="17"/>
+    <ellipse cx="1320" cy="215" rx="180" ry="12"/>
+    <ellipse cx="560" cy="86" rx="200" ry="11"/>
+  </g>
+
+  <!-- single soft puff in the top-left corner -->
+  <g opacity="0.34" filter="url(#f-puff)">
+    <use href="#cu" x="-100" y="-30" width="380" height="170"/>
+  </g>
+
+  <!-- far bank -->
+  <g opacity="0.36" filter="url(#f-far)">
+    <use href="#cu2" x="-60" y="676" width="520" height="300"/>
+    <use href="#cu" x="380" y="756" width="480" height="240"/>
+    <use href="#cu2" x="880" y="656" width="560" height="320"/>
+  </g>
+
+  <!-- mid bank -->
+  <g opacity="0.78" filter="url(#f-mid)">
+    <use href="#cu" x="-40" y="790" width="380" height="220"/>
+    <use href="#cu2" x="230" y="850" width="340" height="170"/>
+    <use href="#cu" x="470" y="890" width="380" height="130"/>
+    <use href="#cu2" x="760" y="860" width="360" height="160"/>
+    <use href="#cu" x="1030" y="800" width="420" height="220"/>
+  </g>
+
+  <!-- near bank: crisp cloud tops along the lower edge -->
+  <g filter="url(#f-near)">
+    <use href="#cu2" x="-30" y="872" width="300" height="140"/>
+    <use href="#cu" x="230" y="912" width="270" height="100"/>
+    <use href="#cu2" x="470" y="932" width="300" height="86"/>
+    <use href="#cu" x="740" y="920" width="290" height="96"/>
+    <use href="#cu2" x="1010" y="882" width="330" height="130"/>
+    <use href="#cu" x="1250" y="916" width="210" height="96"/>
+  </g>
+
+  <rect width="1413" height="1000" fill="url(#lift)"/>
+</svg>

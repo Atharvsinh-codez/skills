@@ -1,0 +1,94 @@
+{
+ "phrases": [
+  "Create a newsletter campaig",
+  "Create a newsletter campaign for our O",
+  "Create a newsletter campaign for our October prod",
+  "Create a newsletter campaign for our October product updates ",
+  "Create a newsletter campaign for our October product updates and send it",
+  "Create a newsletter campaign for our October product updates and send it to all sig",
+  "Create a newsletter campaign for our October product updates and send it to all signed up user",
+  "Create a newsletter campaign for our October product updates and send it to all signed up users.",
+  "Create a newsletter campaign for our October product updates and send it to all signed up users.",
+  "Create a newsletter campaign for our October product updates and send it to all signed up users.",
+  "Create a newsletter campaign for our October product updates and send it to all signed up users.",
+  "Set u",
+  "Set up an automat",
+  "Set up an automated welcome ",
+  "Set up an automated welcome email sequen",
+  "Set up an automated welcome email sequence for new ",
+  "Set up an automated welcome email sequence for new subscribers",
+  "Set up an automated welcome email sequence for new subscribers.",
+  "Set up an automated welcome email sequence for new subscribers.",
+  "Set up an automated welcome email sequence for new subscribers.",
+  "Set up an automated welcome email sequence for new subscribers.",
+  "Duplic",
+  "Duplicate the Blac",
+  "Duplicate the Black Friday ca"
+ ],
+ "logos": [
+  [
+   "Orshot op1 112x33",
+   "FirstDollar op1 130x43",
+   "OpenAlternative op1 180x22",
+   "NutriScan App op1 180x27",
+   "Openstatus op1 168x24",
+   "SaffronStays op1 165x27",
+   "AceternityUI op1 159x32",
+   "Audionotes op1 142x24"
+  ],
+  [
+   "Openstatus op1 168x24",
+   "SaffronStays op1 165x27",
+   "AceternityUI op1 159x32",
+   "Audionotes op1 142x24",
+   "Peerlist op1 112x24",
+   "Supermemory op1 220x26",
+   "gistr op1 67x32",
+   "GuideJar op1 145x39"
+  ],
+  [
+   "Openstatus op1 168x24",
+   "SaffronStays op1 165x27",
+   "AceternityUI op1 159x32",
+   "Audionotes op1 142x24",
+   "Peerlist op1 112x24",
+   "Supermemory op1 220x26",
+   "gistr op1 67x32",
+   "GuideJar op1 145x39"
+  ],
+  [
+   "Peerlist op1 112x24",
+   "Supermemory op1 220x26",
+   "gistr op1 67x32",
+   "GuideJar op1 145x39",
+   "Vivgrid op1 112x33",
+   "Mission Control HQ op1 220x31",
+   "Brickspace Labs op1 180x28",
+   "Youform op1 145x23"
+  ]
+ ],
+ "menu": [],
+ "bar": [
+  [
+   "2273 h129 w4 none rgba(0, 0, 0, 0) tr:none all"
+  ],
+  [
+   "2273 h129 w4 none rgba(0, 0, 0, 0) tr:none all"
+  ],
+  [
+   "2273 h129 w4 none rgba(0, 0, 0, 0) tr:none all"
+  ],
+  [
+   "2273 h129 w4 none rgba(0, 0, 0, 0) tr:none all",
+   "2271 h129 w4 linear-gradient(lab(100 0 0) 0%, lab(100 0 0) 40%, rgb(97, 95, 255) 100%) rgba(0, 0, 0, 0) tr:matrix(1, 0, 0, 1, 0, -2.15763) all"
+  ],
+  [
+   "2403 h129 w4 none rgba(0, 0, 0, 0) tr:none all",
+   "2303 h129 w4 linear-gradient(lab(100 0 0) 0%, lab(100 0 0) 40%, rgb(97, 95, 255) 100%) rgba(0, 0, 0, 0) tr:matrix(1, 0, 0, 1, 0, -99.8116) all"
+  ],
+  [
+   "2403 h129 w4 none rgba(0, 0, 0, 0) tr:none all",
+   "2336 h129 w4 linear-gradient(lab(100 0 0) 0%, lab(100 0 0) 40%, rgb(97, 95, 255) 100%) rgba(0, 0, 0, 0) tr:matrix(1, 0, 0, 1, 0, -67.1415) all"
+  ]
+ ]
+}

@@ -1,0 +1,310 @@
+1440 | 7157 | div | bg:lab(98.2686 -0.0991821 0.364304)
+1440 | 7157 | div | bg:lab(98.2686 -0.0991821 0.364304)
+502 | 16 | 116 | 28 | button | "Solutions" | Geist Mono 14px/20px w600 lsnormal uppercase c:lab(15.0353 1.96067 1.53427) | r:8px | p:4px 12px
+626 | 16 | 74 | 28 | a | "Agents" | Geist Mono 14px/20px w600 lsnormal uppercase c:lab(15.0353 1.96067 1.53427) | r:8px | p:4px 12px
+708 | 16 | 83 | 28 | a | "Pricing" | Geist Mono 14px/20px w600 lsnormal uppercase c:lab(15.0353 1.96067 1.53427) | r:8px | p:4px 12px
+799 | 16 | 74 | 28 | a | "Docs" | Geist Mono 14px/20px w600 lsnormal uppercase c:lab(15.0353 1.96067 1.53427) | r:8px | p:4px 12px
+880 | 16 | 58 | 28 | a | "Blog" | Geist Mono 14px/20px w600 lsnormal uppercase c:lab(15.0353 1.96067 1.53427) | r:8px | p:4px 12px
+1079 | 14 | 84 | 32 | a | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579) | r:12px | p:6px 16px
+1096 | 20 | 50 | 20 | div | "Log in" | Geist Mono 14px/20px w600 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+1179 | 14 | 93 | 32 | a | bg:lab(48.295 38.3129 -81.9673) | bt:1px lab(38.4009 52.6132 -92.3857) | bl:1px lab(38.4009 52.6132 -92.3857) | r:12px | p:6px 16px
+1196 | 20 | 59 | 20 | div | "Sign up" | Geist Mono 14px/20px w600 lsnormal uppercase c:lab(98.2686 -0.0991821 0.364304)
+503 | 176 | 433 | 32 | a | bg:lab(100 0 0) | r:8px
+503 | 176 | 54 | 32 | p | "New" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(98.2686 -0.0991821 0.364304) | bg:lab(15.0353 1.96067 1.53427) | r:8px 0px 0px 8px | p:8px 16px
+557 | 176 | 379 | 32 | div | bt:1px lab(15.0353 1.96067 1.53427) | bl:1px lab(15.0353 1.96067 1.53427) | r:0px 8px 8px 0px
+558 | 182 | 377 | 20 | p | "AutoSend can now receive emails." | Geist 14px/20px w500 lsnormal  c:lab(15.0353 1.96067 1.53427) | p:0px 12px 0px 16px
+574 | 183 | 123 | 18 | span | "Inbound Email API:" | Geist 14px/20px w500 lsnormal  c:lab(15.0353 1.96067 1.53427)
+361 | 248 | 718 | 176 | h1 | "Email for who ship with" | cooperLtBT 80px/88px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+701 | 239 | 201 | 105 | em | "teams" | cooperLtBT 80px/88px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+778 | 327 | 222 | 105 | em | "agents" | cooperLtBT 80px/88px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+361 | 440 | 718 | 60 | h2 | "Transactional, marketing & automations i" | Geist 20px/30px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+602 | 540 | 126 | 32 | a | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579) | r:12px | p:6px 16px
+619 | 546 | 92 | 20 | div | "Book a demo" | Geist Mono 14px/20px w600 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+745 | 540 | 93 | 32 | a | bg:lab(48.295 38.3129 -81.9673) | bt:1px lab(38.4009 52.6132 -92.3857) | bl:1px lab(38.4009 52.6132 -92.3857) | r:12px | p:6px 16px
+762 | 546 | 59 | 20 | div | "Sign up" | Geist Mono 14px/20px w600 lsnormal uppercase c:lab(98.2686 -0.0991821 0.364304)
+384 | 940 | 672 | 124 | div | bg:lab(100 0 0) | bt:2px rgb(217, 119, 87) | bl:2px rgb(217, 119, 87) | r:16px | p:16px 16px 12px
+402 | 959 | 379 | 21 | span | "Set up an automated welcome email sequen" | Geist 16px/22px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+402 | 1018 | 32 | 32 | button | bt:1px rgba(0, 0, 0, 0) | bl:1px rgba(0, 0, 0, 0) | r:12px | p:6px 0px
+1006 | 1018 | 32 | 32 | button | bg:rgb(217, 119, 87) | bt:1px rgb(217, 119, 87) | bl:1px rgb(217, 119, 87) | r:12px | p:6px 0px
+168 | 1312 | 1104 | 167 | div | bl:1px lab(91.055 0.663072 0.865579)
+169 | 1312 | 1102 | 167 | ul | bt:1px lab(91.055 0.663072 0.865579)
+169 | 1313 | 366 | 124 | div | bg:lab(100 0 0) | p:24px
+193 | 1337 | 318 | 24 | p | "Email API" | Geist Mono 16px/24px w500 lsnormal  c:lab(15.0353 1.96067 1.53427)
+193 | 1369 | 318 | 44 | p | "Fast and reliable email API your AI agen" | Geist 16px/22px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+169 | 1437 | 366 | 41 | ul | bt:1px lab(91.055 0.663072 0.865579)
+193 | 1450 | 29 | 16 | p | "Docs" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+536 | 1313 | 366 | 124 | div | bg:lab(100 0 0) | p:24px
+560 | 1337 | 318 | 24 | p | "MCP" | Geist Mono 16px/24px w500 lsnormal  c:lab(15.0353 1.96067 1.53427)
+560 | 1369 | 318 | 44 | p | "Build templates, create campaigns, manag" | Geist 16px/22px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+536 | 1437 | 366 | 41 | ul | bt:1px lab(91.055 0.663072 0.865579)
+560 | 1450 | 29 | 16 | p | "Docs" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+904 | 1313 | 367 | 124 | div | bg:lab(100 0 0) | p:24px
+928 | 1337 | 319 | 24 | p | "skill.md" | Geist Mono 16px/24px w500 lsnormal  c:lab(15.0353 1.96067 1.53427)
+928 | 1369 | 319 | 44 | p | "Give your agent full knowledge of the Au" | Geist 16px/22px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+904 | 1437 | 367 | 41 | ul | bt:1px lab(91.055 0.663072 0.865579)
+928 | 1450 | 29 | 16 | p | "Docs" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+168 | 1639 | 1104 | 296 | div | bl:1px lab(91.055 0.663072 0.865579)
+169 | 1639 | 1102 | 296 | div | bt:1px lab(91.055 0.663072 0.865579)
+193 | 1664 | 227 | 32 | p | "5,125,980" | dataType 24px/32px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+193 | 1704 | 227 | 20 | p | "Emails sent in past 7 days" | Geist 14px/20px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+469 | 1664 | 227 | 32 | p | "98.51%" | dataType 24px/32px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+469 | 1704 | 227 | 20 | p | "Deliverability rate" | Geist 14px/20px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+744 | 1664 | 227 | 32 | p | "1.87s" | dataType 24px/32px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+744 | 1704 | 227 | 20 | p | "Average time to inbox" | Geist 14px/20px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+1020 | 1664 | 228 | 32 | p | "1.46%" | dataType 24px/32px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+1020 | 1704 | 228 | 20 | p | "Average bounce rate" | Geist 14px/20px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+169 | 1749 | 1102 | 69 | div | bg:lab(100 0 0) | p:24px
+531 | 1773 | 378 | 20 | p | "Emails sent by big and small companies a" | Geist Mono 14px/20px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+168 | 2095 | 1104 | 764 | div | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579)
+193 | 2120 | 519 | 16 | p | "#01 - Transactional Emails" | Geist Mono 14px/16px w500 lsnormal uppercase c:lab(56.101 79.4328 31.4532)
+193 | 2152 | 519 | 96 | h2 | "OTPs, updates, and alerts your users can" | Geist 40px/48px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+169 | 2273 | 550 | 129 | div | bg:lab(100 0 0)
+229 | 2302 | 466 | 16 | p | "Email API / SMTP" | Geist Mono 16px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+229 | 2326 | 466 | 48 | p | "Send transactional emails programmatical" | Geist 16px/24px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+229 | 2432 | 466 | 16 | p | "SDK" | Geist Mono 16px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+229 | 2456 | 466 | 48 | p | "Drop-in libraries for Node.js, Next.js, " | Geist 16px/24px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+229 | 2562 | 466 | 16 | p | "Inbound" | Geist Mono 16px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+229 | 2586 | 466 | 48 | p | "Receive an email, get structured JSON: b" | Geist 16px/24px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+229 | 2692 | 466 | 16 | p | "Webhooks" | Geist Mono 16px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+229 | 2716 | 466 | 48 | p | "Get real-time event notifications for ev" | Geist 16px/24px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+744 | 2297 | 503 | 472 | div | bg:lab(100 0 0) | r:8px | sh:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0
+744 | 2297 | 503 | 33 | div | bg:lab(96.5286 -0.0991821 0.364268) | p:10px 12px
+744 | 2330 | 103 | 439 | div | bg:lab(96.5286 -0.0991821 0.364268)
+744 | 2330 | 102 | 48 | button | bg:lab(100 0 0) | p:0px 16px
+780 | 2344 | 34 | 20 | span | "cURL" | Geist Mono 14px/20px w500 lsnormal  c:lab(15.0353 1.96067 1.53427)
+744 | 2378 | 102 | 48 | button | bg:lab(96.5286 -0.0991821 0.364268) | p:0px 16px
+780 | 2392 | 50 | 20 | span | "NodeJS" | Geist Mono 14px/20px w500 lsnormal  c:lab(15.0353 1.96067 1.53427)
+744 | 2426 | 102 | 48 | button | bg:lab(96.5286 -0.0991821 0.364268) | p:0px 16px
+780 | 2440 | 34 | 20 | span | "Rust" | Geist Mono 14px/20px w500 lsnormal  c:lab(15.0353 1.96067 1.53427)
+744 | 2474 | 102 | 48 | button | bg:lab(96.5286 -0.0991821 0.364268) | p:0px 16px
+780 | 2488 | 17 | 20 | span | "Go" | Geist Mono 14px/20px w500 lsnormal  c:lab(15.0353 1.96067 1.53427)
+744 | 2522 | 102 | 48 | button | bg:lab(96.5286 -0.0991821 0.364268) | p:0px 16px
+780 | 2536 | 25 | 20 | span | "PHP" | Geist Mono 14px/20px w500 lsnormal  c:lab(15.0353 1.96067 1.53427)
+744 | 2570 | 102 | 48 | button | bg:lab(96.5286 -0.0991821 0.364268) | p:0px 16px
+780 | 2584 | 17 | 20 | span | "C#" | Geist Mono 14px/20px w500 lsnormal  c:lab(15.0353 1.96067 1.53427)
+744 | 2618 | 102 | 48 | button | bg:lab(96.5286 -0.0991821 0.364268) | p:0px 16px
+780 | 2632 | 34 | 20 | span | "Java" | Geist Mono 14px/20px w500 lsnormal  c:lab(15.0353 1.96067 1.53427)
+744 | 2666 | 102 | 48 | button | bg:lab(96.5286 -0.0991821 0.364268) | p:0px 16px
+780 | 2680 | 50 | 20 | span | "Python" | Geist Mono 14px/20px w500 lsnormal  c:lab(15.0353 1.96067 1.53427)
+863 | 2350 | 523 | 593 | code | "curl --location --header --header --data" | Geist Mono 13px/20px w500 lsnormal  c:lab(2.86037 0.455312 0.568903) | bg:lab(100 0 0)
+988 | 2350 | 312 | 17 | span | "'https://api.autosend.com/v1/mails/send'" | Geist Mono 13px/20px w500 lsnormal  c:lab(47.0329 -47.0239 31.4788)
+934 | 2374 | 281 | 17 | span | "'Authorization: Bearer YOUR_API_KEY'" | Geist Mono 13px/20px w500 lsnormal  c:lab(47.0329 -47.0239 31.4788)
+934 | 2398 | 250 | 17 | span | "'Content-Type: application/json'" | Geist Mono 13px/20px w500 lsnormal  c:lab(47.0329 -47.0239 31.4788)
+863 | 2422 | 523 | 521 | span | "'{
+  "from": {
+    "email": "no-reply@ex" | Geist Mono 13px/20px w500 lsnormal  c:lab(47.0329 -47.0239 31.4788)
+169 | 2793 | 1102 | 65 | a | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | p:16px
+567 | 2810 | 306 | 32 | div | bt:1px rgba(0, 0, 0, 0) | bl:1px rgba(0, 0, 0, 0) | r:12px | p:6px 16px
+584 | 2816 | 272 | 20 | div | "All About Transactional Emails" | Geist Mono 14px/20px w600 lsnormal uppercase c:lab(38.4009 52.6132 -92.3857)
+168 | 2939 | 1104 | 764 | div | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579)
+193 | 2964 | 519 | 16 | p | "#02 - Marketing Emails" | Geist Mono 14px/16px w500 lsnormal uppercase c:lab(48.295 38.3129 -81.9673)
+193 | 2996 | 519 | 96 | h2 | "Marketing emails that reach, engage and " | Geist 40px/48px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+169 | 3117 | 550 | 129 | div | bg:lab(100 0 0)
+229 | 3146 | 466 | 16 | p | "Campaigns" | Geist Mono 16px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+229 | 3170 | 466 | 48 | p | "Create, personalize, and send beautiful " | Geist 16px/24px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+229 | 3276 | 466 | 16 | p | "Domain Warmup" | Geist Mono 16px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+229 | 3300 | 466 | 48 | p | "Gradually warm up your sending domain to" | Geist 16px/24px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+229 | 3406 | 466 | 16 | p | "Dynamic Segmentation" | Geist Mono 16px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+229 | 3430 | 466 | 48 | p | "Segment your audience dynamically based " | Geist 16px/24px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+229 | 3536 | 466 | 16 | p | "Email Builder" | Geist Mono 16px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+229 | 3560 | 466 | 48 | p | "Build emails without bugging your devs. " | Geist 16px/24px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+744 | 3141 | 503 | 472 | div | bg:lab(98.2686 -0.0991821 0.364304) | r:8px | sh:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0
+744 | 3141 | 503 | 33 | div | bg:lab(96.5286 -0.0991821 0.364268) | p:10px 12px
+768 | 3190 | 283 | 28 | p | "Campaigns" | Geist 18px/28px w600 lsnormal  c:lab(15.0353 1.96067 1.53427)
+768 | 3226 | 283 | 40 | p | "Campaigns are marketing emails that you " | Geist 14px/20px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+1091 | 3190 | 132 | 24 | button | bg:lab(27.3812 1.32917 3.57789) | bt:2px lab(15.0353 1.96067 1.53427) | bl:2px lab(15.0353 1.96067 1.53427) | r:8px | p:4px 12px
+1105 | 3194 | 104 | 16 | div | "New Campaign" | Geist Mono 12px/16px w600 lsnormal uppercase c:lab(98.2686 -0.0991821 0.364304)
+768 | 3282 | 455 | 100 | div | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579) | r:16px | p:16px
+805 | 3299 | 54 | 16 | span | "Sending" | Geist Mono 12px/16px w600 ls0.48px uppercase c:lab(15.0353 1.96067 1.53427) | bgi:linear-gradient(45deg, rgb(120, 113, 108) 0%, rgb(120, 113, 108) 42%, rgb(231, 229, 228) 50%, rgb(120, 113, 108) 60%, rg
+865 | 3299 | 4 | 16 | span | "•" | Geist 12px/16px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+875 | 3299 | 135 | 16 | span | "24 Mar, 2026 • 10:24 AM" | Geist 12px/16px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+785 | 3323 | 397 | 20 | p | "Product Release Mar 26" | Geist 14px/20px w600 lsnormal  c:lab(15.0353 1.96067 1.53427)
+785 | 3345 | 397 | 20 | p | "Subject: What we shipped this month + an" | Geist 14px/20px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+792 | 3398 | 138 | 16 | span | "Past Campaigns ( 3 )" | Geist Mono 12px/16px w600 ls0.48px uppercase c:lab(48.1164 2.35701 4.26852)
+938 | 3406 | 285 | 1 | div | bg:lab(91.055 0.663072 0.865579)
+768 | 3430 | 455 | 100 | div | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579) | r:16px | p:16px
+805 | 3447 | 31 | 16 | span | "Sent" | Geist Mono 12px/16px w600 ls0.48px uppercase c:lab(15.0353 1.96067 1.53427)
+842 | 3447 | 4 | 16 | span | "•" | Geist 12px/16px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+851 | 3447 | 137 | 16 | span | "20 Mar, 2026 • 10:40 AM" | Geist 12px/16px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+785 | 3471 | 397 | 20 | p | "Weekly Newsletter" | Geist 14px/20px w600 lsnormal  c:lab(15.0353 1.96067 1.53427)
+785 | 3493 | 397 | 20 | p | "Subject: Jobs are changing and here's wh" | Geist 14px/20px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+768 | 3546 | 455 | 100 | div | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579) | r:16px | p:16px
+805 | 3563 | 31 | 16 | span | "Sent" | Geist Mono 12px/16px w600 ls0.48px uppercase c:lab(15.0353 1.96067 1.53427)
+842 | 3563 | 4 | 16 | span | "•" | Geist 12px/16px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+851 | 3563 | 137 | 16 | span | "20 Mar, 2026 • 10:40 AM" | Geist 12px/16px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+785 | 3587 | 397 | 20 | p | "Feedback Survey" | Geist 14px/20px w600 lsnormal  c:lab(15.0353 1.96067 1.53427)
+785 | 3609 | 397 | 20 | p | "Subject: Top Projects of Week 38" | Geist 14px/20px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+768 | 3662 | 455 | 100 | div | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579) | r:16px | p:16px
+805 | 3679 | 31 | 16 | span | "Sent" | Geist Mono 12px/16px w600 ls0.48px uppercase c:lab(15.0353 1.96067 1.53427)
+842 | 3679 | 4 | 16 | span | "•" | Geist 12px/16px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+851 | 3679 | 125 | 16 | span | "2025/12/17 • 10:24 AM" | Geist 12px/16px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+785 | 3703 | 397 | 20 | p | "Peerlist Weekly Email" | Geist 14px/20px w600 lsnormal  c:lab(15.0353 1.96067 1.53427)
+785 | 3725 | 397 | 20 | p | "Subject: Top Projects of Week 38" | Geist 14px/20px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+169 | 3637 | 1102 | 65 | a | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | p:16px
+584 | 3654 | 272 | 32 | div | bt:1px rgba(0, 0, 0, 0) | bl:1px rgba(0, 0, 0, 0) | r:12px | p:6px 16px
+601 | 3660 | 238 | 20 | div | "All About Marketing Emails" | Geist Mono 14px/20px w600 lsnormal uppercase c:lab(38.4009 52.6132 -92.3857)
+168 | 3783 | 1104 | 764 | div | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579)
+193 | 3808 | 519 | 16 | p | "#03 - Email Automation" | Geist Mono 14px/16px w500 lsnormal uppercase c:lab(61.1055 -41.0235 73.1483)
+193 | 3840 | 519 | 96 | h2 | "Automate all emails from conversion to r" | Geist 40px/48px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+169 | 3961 | 550 | 173 | div | bg:lab(100 0 0)
+229 | 4011 | 466 | 16 | p | "Email Automation" | Geist Mono 16px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+229 | 4035 | 466 | 48 | p | "Create welcome sequences, onboarding flo" | Geist 16px/24px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+229 | 4185 | 466 | 16 | p | "Smart Triggers" | Geist Mono 16px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+229 | 4209 | 466 | 48 | p | "Trigger emails based on user actions, co" | Geist 16px/24px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+229 | 4359 | 466 | 16 | p | "Analytics & Insights" | Geist Mono 16px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+229 | 4383 | 466 | 48 | p | "See opens, clicks, and conversions as th" | Geist 16px/24px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+744 | 3985 | 503 | 470 | div | bg:lab(98.2686 -0.0991821 0.364304) | r:8px | sh:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0
+744 | 3985 | 503 | 33 | div | bg:lab(96.5286 -0.0991821 0.364268) | p:10px 12px
+836 | 4050 | 95 | 36 | div | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579) | r:12px 0px 0px | p:10px 4px 6px 12px
+873 | 4063 | 54 | 16 | span | "Trigger" | Geist Mono 12px/16px w600 ls0.48px uppercase c:lab(15.0353 1.96067 1.53427)
+836 | 4085 | 320 | 54 | div | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579) | r:0px 12px 12px | p:16px
+853 | 4102 | 125 | 20 | span | "Contact is added to" | Geist 14px/20px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+982 | 4102 | 110 | 20 | span | "All Customers" | Geist Mono 12px/16px w600 lsnormal  c:lab(38.4009 52.6132 -92.3857) | bg:lab(91.6577 1.04591 -12.7199) | r:6px | p:2px 8px
+1095 | 4102 | 19 | 20 | span | "list" | Geist 14px/20px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+836 | 4193 | 320 | 116 | div | bg:lab(96.5286 -0.0991821 0.364268) | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579) | r:16px
+875 | 4206 | 61 | 16 | span | "Wait for" | Geist Mono 12px/16px w600 ls0.48px uppercase c:lab(48.1164 2.35701 4.26852)
+1110 | 4206 | 29 | 16 | span | "8 hrs" | Geist 12px/16px w600 lsnormal  c:lab(15.0353 1.96067 1.53427)
+837 | 4234 | 318 | 74 | div | bg:lab(100 0 0) | r:16px | p:16px
+853 | 4251 | 40 | 40 | div | bg:lab(91.6577 1.04591 -12.7199) | r:3.35544e+07px
+866 | 4257 | 13 | 28 | span | "D" | Geist 18px/28px w400 lsnormal  c:lab(48.295 38.3129 -81.9673)
+901 | 4250 | 181 | 20 | span | "Welcome, Let's Get Started!" | Geist 14px/20px w500 lsnormal  c:lab(15.0353 1.96067 1.53427)
+901 | 4272 | 181 | 20 | span | "David <david@acme.com>" | Geist 14px/20px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+991 | 4363 | 164 | 36 | div | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | r:0px 12px 0px 0px | p:10px 16px 6px 8px
+999 | 4376 | 115 | 16 | span | "Automation Ends" | Geist Mono 12px/16px w600 ls0.48px uppercase c:lab(15.0353 1.96067 1.53427)
+836 | 4398 | 320 | 82 | div | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579) | r:12px 0px 12px 12px | p:16px
+853 | 4418 | 273 | 42 | span | "Once all emails have been sent or contac" | Geist 14px/20px w500 lsnormal  c:lab(15.0353 1.96067 1.53427)
+169 | 4481 | 1102 | 65 | a | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | p:16px
+584 | 4498 | 272 | 32 | div | bt:1px rgba(0, 0, 0, 0) | bl:1px rgba(0, 0, 0, 0) | r:12px | p:6px 16px
+601 | 4504 | 238 | 20 | div | "All About Email Automation" | Geist Mono 14px/20px w600 lsnormal uppercase c:lab(38.4009 52.6132 -92.3857)
+168 | 4707 | 1104 | 522 | div | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579)
+169 | 4708 | 1102 | 520 | div | bg:lab(91.055 0.663072 0.865579)
+745 | 4732 | 503 | 472 | div | bg:lab(98.2686 -0.0991821 0.364304) | r:8px
+745 | 4732 | 503 | 33 | div | bg:lab(96.5286 -0.0991821 0.364268) | p:10px 12px
+868 | 4875 | 256 | 38 | div | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579) | r:8px | p:6px 8px
+909 | 4884 | 182 | 20 | p | "ConnectSphere" | Geist 14px/20px w600 lsnormal  c:lab(15.0353 1.96067 1.53427)
+868 | 4925 | 256 | 169 | div | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579) | r:8px | sh:rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0 | p:8px
+917 | 4938 | 158 | 20 | p | "ConnectSphere" | Geist 14px/20px w600 lsnormal  c:lab(15.0353 1.96067 1.53427)
+917 | 4958 | 158 | 16 | p | "csphere.com" | Geist Mono 12px/16px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+917 | 4990 | 190 | 1 | hr | bt:1px lab(91.055 0.663072 0.865579)
+917 | 5007 | 190 | 20 | p | "Frostline" | Geist 14px/20px w600 lsnormal  c:lab(15.0353 1.96067 1.53427)
+917 | 5027 | 190 | 16 | p | "frostline.io" | Geist Mono 12px/16px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+917 | 5060 | 79 | 16 | p | "New Project" | Geist Mono 12px/16px w600 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+169 | 4708 | 551 | 520 | div | bg:lab(98.2686 -0.0991821 0.364304) | p:24px
+193 | 4732 | 503 | 16 | p | "Multi project support" | Geist Mono 14px/16px w500 lsnormal uppercase c:lab(56.101 79.4328 31.4532)
+193 | 5048 | 503 | 48 | h2 | "Multiple Projects, One Bill." | Geist 40px/48px w400 ls-2%  c:lab(15.0353 1.96067 1.53427)
+193 | 5120 | 503 | 84 | p | "Create isolated projects for every produ" | Geist 20px/28px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+168 | 5389 | 1104 | 437 | div | bl:1px lab(91.055 0.663072 0.865579)
+169 | 5389 | 1102 | 437 | div | bt:1px lab(91.055 0.663072 0.865579)
+193 | 5414 | 502 | 16 | p | "Agentic Integrations" | Geist Mono 14px/16px w500 lsnormal uppercase c:lab(48.295 38.3129 -81.9673)
+193 | 5705 | 502 | 96 | p | "Works with your favorite agent." | Geist 40px/48px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+744 | 5454 | 59 | 20 | p | "ChatGPT" | Geist Mono 14px/20px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+1020 | 5454 | 42 | 20 | p | "Codex" | Geist Mono 14px/20px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+744 | 5563 | 50 | 20 | p | "Claude" | Geist Mono 14px/20px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+1020 | 5563 | 92 | 20 | p | "Antigravity" | Geist Mono 14px/20px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+744 | 5672 | 50 | 20 | p | "Cursor" | Geist Mono 14px/20px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+1020 | 5672 | 59 | 20 | p | "Lovable" | Geist Mono 14px/20px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+744 | 5781 | 59 | 20 | p | "Copilot" | Geist Mono 14px/20px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+1020 | 5781 | 50 | 20 | p | "Others" | Geist Mono 14px/20px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+168 | 5986 | 1104 | 277 | div | bl:1px lab(91.055 0.663072 0.865579)
+169 | 5986 | 1102 | 277 | div | bt:1px lab(91.055 0.663072 0.865579)
+169 | 5987 | 366 | 184 | div | bg:lab(100 0 0) | p:24px
+193 | 6011 | 318 | 96 | p | "AutoSend has transformed First Dollar. T" | cooperLtBT 18px/24px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+169 | 6171 | 366 | 92 | div | bt:1px lab(91.055 0.663072 0.865579) | p:24px
+241 | 6196 | 144 | 24 | p | "Pratyush Rungta" | Geist Mono 16px/24px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+241 | 6222 | 144 | 16 | p | "First Dollar" | Geist 12px/16px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+536 | 5987 | 366 | 184 | div | bg:lab(100 0 0) | p:24px
+560 | 6011 | 318 | 96 | p | "Switching to AutoSend was smooth. The mi" | cooperLtBT 18px/24px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+560 | 6123 | 318 | 24 | p | "I'd recommend AutoSend to any startup." | cooperLtBT 18px/24px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+536 | 6171 | 366 | 92 | div | bt:1px lab(91.055 0.663072 0.865579) | p:24px
+608 | 6196 | 115 | 24 | p | "Arun Anthony" | Geist Mono 16px/24px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+608 | 6222 | 115 | 16 | p | "Gistr" | Geist 12px/16px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+904 | 5987 | 367 | 184 | div | bg:lab(100 0 0) | p:24px
+928 | 6011 | 319 | 120 | p | "We chose AutoSend for its first-class em" | cooperLtBT 18px/24px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+904 | 6171 | 367 | 92 | div | bt:1px lab(91.055 0.663072 0.865579) | p:24px
+976 | 6196 | 77 | 24 | p | "C.C. Fan" | Geist Mono 16px/24px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+976 | 6222 | 77 | 16 | p | "CEO Vivgrid" | Geist 12px/16px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+168 | 6423 | 1104 | 216 | div | bl:1px lab(91.055 0.663072 0.865579)
+169 | 6423 | 1102 | 216 | div | bt:1px lab(91.055 0.663072 0.865579)
+193 | 6469 | 502 | 48 | p | "Still wondering?" | Geist 40px/48px w400 lsnormal  c:lab(15.0353 1.96067 1.53427)
+193 | 6533 | 502 | 60 | p | "See what your favorite LLM has to say ab" | Geist 20px/30px w400 lsnormal  c:lab(48.1164 2.35701 4.26852)
+776 | 6450 | 92 | 20 | p | "Ask ChatGPT" | Geist Mono 14px/20px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+1052 | 6450 | 84 | 20 | p | "Ask Gemini" | Geist Mono 14px/20px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+776 | 6523 | 84 | 20 | p | "Ask Claude" | Geist Mono 14px/20px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+1052 | 6523 | 118 | 20 | p | "Ask Perplexity" | Geist Mono 14px/20px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+720 | 6569 | 551 | 69 | a | "Talk to a Human" | Geist Mono 14px/20px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427) | bg:lab(100 0 0) | bt:1px lab(91.055 0.663072 0.865579) | p:24px
+168 | 6639 | 1104 | 48 | div | bl:1px lab(91.055 0.663072 0.865579)
+168 | 6687 | 1104 | 280 | div | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579)
+169 | 6688 | 220 | 33 | div | bg:lab(100 0 0) | p:8px 24px
+193 | 6696 | 171 | 16 | p | "Solutions" | Geist Mono 12px/16px w500 ls1.2px uppercase c:lab(48.1164 2.35701 4.26852)
+389 | 6688 | 220 | 33 | div | bg:lab(100 0 0) | p:8px 24px
+413 | 6696 | 171 | 16 | p | "Docs" | Geist Mono 12px/16px w500 ls1.2px uppercase c:lab(48.1164 2.35701 4.26852)
+610 | 6688 | 220 | 33 | div | bg:lab(100 0 0) | p:8px 24px
+634 | 6696 | 171 | 16 | p | "Resources" | Geist Mono 12px/16px w500 ls1.2px uppercase c:lab(48.1164 2.35701 4.26852)
+830 | 6688 | 220 | 33 | div | bg:lab(100 0 0) | p:8px 24px
+854 | 6696 | 171 | 16 | p | "Compare" | Geist Mono 12px/16px w500 ls1.2px uppercase c:lab(48.1164 2.35701 4.26852)
+1051 | 6688 | 220 | 33 | div | bg:lab(100 0 0) | p:8px 24px
+1075 | 6696 | 172 | 16 | p | "Legal" | Geist Mono 12px/16px w500 ls1.2px uppercase c:lab(48.1164 2.35701 4.26852)
+169 | 6721 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+193 | 6729 | 144 | 16 | p | "Transactional Emails" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+389 | 6721 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+413 | 6729 | 108 | 16 | p | "Getting Started" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+610 | 6721 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+634 | 6729 | 22 | 16 | p | "FAQ" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+830 | 6721 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+854 | 6729 | 58 | 16 | p | "SendGrid" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+1051 | 6721 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+1075 | 6729 | 58 | 16 | p | "Fair Use" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+169 | 6754 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+193 | 6762 | 115 | 16 | p | "Marketing Emails" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+389 | 6754 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+413 | 6762 | 94 | 16 | p | "API Reference" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+610 | 6754 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+634 | 6762 | 29 | 16 | p | "Blog" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+830 | 6754 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+854 | 6762 | 36 | 16 | p | "Loops" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+1051 | 6754 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+1075 | 6762 | 50 | 16 | p | "Privacy" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+169 | 6787 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+193 | 6795 | 115 | 16 | p | "Email Automation" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+389 | 6787 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+413 | 6795 | 43 | 16 | p | "Agents" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+610 | 6787 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+634 | 6795 | 58 | 16 | p | "Glossary" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+830 | 6787 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+854 | 6795 | 43 | 16 | p | "Resend" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+1051 | 6787 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+1075 | 6795 | 36 | 16 | p | "Terms" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+169 | 6820 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+193 | 6828 | 43 | 16 | p | "Agents" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+389 | 6820 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+413 | 6828 | 29 | 16 | p | "Wiki" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+610 | 6820 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+634 | 6828 | 108 | 16 | p | "Be an Affiliate" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+830 | 6820 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+854 | 6828 | 58 | 16 | p | "Postmark" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+1051 | 6820 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+1075 | 6828 | 101 | 16 | p | "Sub-Processors" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+169 | 6853 | 220 | 49 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+193 | 6869 | 101 | 16 | p | "Deliverability" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+389 | 6853 | 220 | 49 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+413 | 6869 | 65 | 16 | p | "Changelog" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+610 | 6853 | 220 | 49 | div | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+830 | 6853 | 220 | 49 | div | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+1051 | 6853 | 220 | 49 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+1075 | 6861 | 172 | 32 | p | "Data Processing Addendum" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+169 | 6902 | 220 | 33 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+193 | 6910 | 122 | 16 | p | "Inbound Email API" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+389 | 6902 | 220 | 33 | div | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+610 | 6902 | 220 | 33 | div | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+830 | 6902 | 220 | 33 | div | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+1051 | 6902 | 220 | 33 | div | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+169 | 6935 | 220 | 32 | a | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+193 | 6943 | 94 | 16 | p | "Email Builder" | Geist Mono 12px/16px w500 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+389 | 6935 | 220 | 32 | div | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+610 | 6935 | 220 | 32 | div | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+830 | 6935 | 220 | 32 | div | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+1051 | 6935 | 220 | 32 | div | bg:lab(98.2686 -0.0991821 0.364304) | p:8px 24px
+168 | 6967 | 1104 | 150 | div | bt:1px lab(91.055 0.663072 0.865579) | bl:1px lab(91.055 0.663072 0.865579)
+193 | 7076 | 158 | 16 | p | "© 2026 • Peerlist Inc." | Geist Mono 12px/16px w400 lsnormal uppercase c:lab(66.2166 1.88044 3.20326)
+646 | 7058 | 166 | 16 | p | "All systems operational" | Geist Mono 12px/16px w600 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)
+1175 | 7040 | 72 | 16 | p | "Find us on" | Geist Mono 12px/16px w600 lsnormal uppercase c:lab(15.0353 1.96067 1.53427)

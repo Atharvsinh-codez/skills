@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1754 1000" width="1754" height="1000"
+     preserveAspectRatio="xMidYMid slice" role="presentation">
+  <title>Blue sky above a low bank of cumulus clouds</title>
+  <defs>
+    <symbol id="cu" viewBox="0 0 200 100" overflow="visible">
+      <path d="M2 100c0-16 8-26 20-28 2-20 22-34 42-26 8-22 42-30 58-8 20-10 44 4 46 24 16 2 30 16 30 38Z"
+            fill="#fff"/>
+    </symbol>
+    <symbol id="cu2" viewBox="0 0 200 100" overflow="visible">
+      <path d="M0 100c2-14 14-22 24-22 0-24 26-40 48-30 10-18 38-24 52-4 18-6 38 8 38 26 14 4 26 14 26 30Z"
+            fill="#fff"/>
+    </symbol>
+
+    <linearGradient id="ctaSky" x1="0.05" y1="0" x2="0.42" y2="1">
+      <stop offset="0" stop-color="#2c7ebc"/>
+      <stop offset="0.44" stop-color="#5da7d9"/>
+      <stop offset="0.78" stop-color="#97cdec"/>
+      <stop offset="1" stop-color="#d3ebf9"/>
+    </linearGradient>
+    <radialGradient id="ctaLift" cx="0.5" cy="0.98" r="0.6">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="g-far" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur stdDeviation="13"/></filter>
+    <filter id="g-mid" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="6"/></filter>
+    <filter id="g-near" x="-15%" y="-15%" width="130%" height="130%"><feGaussianBlur stdDeviation="2.4"/></filter>
+    <filter id="g-wisp" x="-40%" y="-90%" width="180%" height="280%"><feGaussianBlur stdDeviation="17"/></filter>
+    <filter id="g-puff" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="24"/></filter>
+  </defs>
+
+  <rect width="1754" height="1000" fill="url(#ctaSky)"/>
+
+  <g opacity="0.2" filter="url(#g-wisp)" fill="#fff">
+    <ellipse cx="1420" cy="140" rx="280" ry="16"/>
+    <ellipse cx="420" cy="96" rx="220" ry="12"/>
+  </g>
+
+  <g opacity="0.34" filter="url(#g-puff)">
+    <use href="#cu" x="-120" y="-40" width="420" height="180"/>
+  </g>
+
+  <g opacity="0.36" filter="url(#g-far)">
+    <use href="#cu2" x="-80" y="672" width="560" height="310"/>
+    <use href="#cu" x="430" y="752" width="520" height="250"/>
+    <use href="#cu2" x="1000" y="650" width="600" height="330"/>
+  </g>
+
+  <g opacity="0.78" filter="url(#g-mid)">
+    <use href="#cu" x="-50" y="788" width="400" height="225"/>
+    <use href="#cu2" x="260" y="848" width="360" height="175"/>
+    <use href="#cu" x="540" y="888" width="400" height="135"/>
+    <use href="#cu2" x="880" y="858" width="380" height="165"/>
+    <use href="#cu" x="1200" y="798" width="440" height="225"/>
+    <use href="#cu2" x="1520" y="862" width="300" height="160"/>
+  </g>
+
+  <g filter="url(#g-near)">
+    <use href="#cu2" x="-40" y="872" width="320" height="145"/>
+    <use href="#cu" x="250" y="912" width="285" height="105"/>
+    <use href="#cu2" x="520" y="932" width="315" height="88"/>
+    <use href="#cu" x="820" y="920" width="300" height="98"/>
+    <use href="#cu2" x="1110" y="882" width="345" height="135"/>
+    <use href="#cu" x="1400" y="914" width="260" height="100"/>
+    <use href="#cu2" x="1620" y="930" width="200" height="86"/>
+  </g>
+
+  <rect width="1754" height="1000" fill="url(#ctaLift)"/>
+</svg>
