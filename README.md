@@ -8,7 +8,7 @@ An agent skill that turns screenshots, mockups, Figma frames, and live pages int
 and then checks its own work against the design until the two match.
 
 [![Website](https://img.shields.io/badge/website-athrix.me-111111?style=flat-square)](https://athrix.me)
-[![X](https://img.shields.io/badge/follow-@athrix__codes-000000?style=flat-square&logo=x)](https://x.com/athrix_codes)
+[![X](https://img.shields.io/badge/@athrix__codes-000000?style=flat-square&logo=x)](https://x.com/athrix_codes)
 [![License: MIT](https://img.shields.io/badge/license-MIT-2563eb?style=flat-square)](LICENSE)
 [![Agent Skill](https://img.shields.io/badge/agent-skill-f97316?style=flat-square)](design-to-code/SKILL.md)
 [![Built with Next.js](https://img.shields.io/badge/demos-Next.js%2016-000000?style=flat-square&logo=nextdotjs)](websites)
